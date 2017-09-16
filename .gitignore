@@ -1,8 +1,11 @@
 #git
 .git/
 
-# idea
+#idea
 .idea/
+
+#images
+ArticleSpider/images/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
